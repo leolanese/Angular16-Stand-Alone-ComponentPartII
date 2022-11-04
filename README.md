@@ -4,10 +4,7 @@ DEMO:
 [Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-playground-gykwcn)
 
 ---
-
-# MyAngularApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+# Running on local
 
 ## Development server
 
