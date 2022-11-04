@@ -3,7 +3,7 @@
 If you did read the Part I, talking about the Angular 14 features, please go to: [Angular 14. Testing Stand Alone Components. Part I](https://github.com/leolanese/Angular14-Stand-Alone-Component/blob/main/README.md)
 
 
-Or, show me the code! then: and check directly DEMO:
+Or show me the code!
 [Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-playground-gykwcn)
 
 ---
