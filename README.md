@@ -1,4 +1,6 @@
-# Angular-v14-stand-alone
+# Angular 14. Testing Stand Alone Components. Part II
+
+If you did read the Part I, talking about the Angular 14 features, please go to: [Angular 14. Testing Stand Alone Components. Part I](https://github.com/leolanese/Angular14-Stand-Alone-Component/blob/main/README.md)
 
 DEMO:
 [Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-playground-gykwcn)
