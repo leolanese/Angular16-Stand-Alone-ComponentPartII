@@ -4,7 +4,7 @@ DEMO:
 [Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-playground-gykwcn)
 
 ---
-# Running on local
+# Running on local2
 
 ## Development server
 
