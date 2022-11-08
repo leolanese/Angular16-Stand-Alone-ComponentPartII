@@ -4,7 +4,7 @@ If you did read the Part I, talking about the Angular 14 features, please go to:
 
 
 Or show me the code!
-[Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-playground-gykwcn)
+[Demo StackBlitz ⚡️](https://stackblitz.com/edit/angular-v14-stand-alone?file=README.md)
 
 ---
 ## Running on local
