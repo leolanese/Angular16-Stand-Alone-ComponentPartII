@@ -125,7 +125,7 @@ const routes = [
 })
 export class AppComponent {
   matSidenavOpened = false;
-  name = 'Brian Love';
+  name = 'Leo Lanese';
 
   toggleMatSidenav(): void {
     this.matSidenavOpened = !this.matSidenavOpened;
