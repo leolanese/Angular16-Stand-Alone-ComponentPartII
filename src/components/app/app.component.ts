@@ -8,15 +8,15 @@ import { Observable } from 'rxjs';
 import { Data } from '../../interfaces/data';
 import { ApiService } from '../../services/api.service';
 
-// JIC: NullInjectorError: No provider for ...
-@NgModule({
-  providers: [{ provide: ApiService, useClass: ApiService }],
-})
-class MyNgModuleWithProvider {}
+// // JIC: NullInjectorError: No provider for ...
+// @NgModule({
+//   providers: [{ provide: ApiService, useClass: ApiService }],
+// })
+// class MyNgModuleWithProvider {}
 
 @Component({
   standalone: true,
-  imports: [CommonModule, MatTableModule, MyNgModuleWithProvider],
+  imports: [CommonModule, MatTableModule],
   selector: 'my-app',
   styleUrls: ['./app.component.css'],
   template: `
